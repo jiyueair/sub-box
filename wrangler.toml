@@ -1,5 +1,5 @@
 # Modify name if deploying multiple instances
-name = "sub-box"
+name = "subbox"
 
 main = ".open-next/worker.js"
 
